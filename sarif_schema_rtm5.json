@@ -468,7 +468,7 @@
 
         "id": {
           "description": "A string that uniquely identifies the edge within its graph.",
-          "type": "string"
+          "type": "integer"
         },
 
         "label": {
@@ -1514,7 +1514,7 @@
 
         "id": {
           "description": "A string that uniquely identifies the node within its graph.",
-          "type": "string"
+          "type": "integer"
         },
 
         "label": {
