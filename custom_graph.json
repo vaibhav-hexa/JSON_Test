@@ -1,0 +1,19 @@
+{
+  "$id": "https://github.com/vaibhav-hexa/JSON_Test/blob/main/location.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Node and Edge Label for a Graph",
+  "description": "Labels for Nodes and Edges in a Graph for SARIF",
+  "type": "object",
+  "properties": {
+    "latitude": {
+      "type": "number",
+      "minimum": -90,
+      "maximum": 90
+    },
+    "longitude": {
+      "type": "number",
+      "minimum": -180,
+      "maximum": 180
+    }
+  }
+}
