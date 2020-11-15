@@ -3,10 +3,13 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Node and Edge Label for a Graph",
   "description": "Labels for Nodes and Edges in a Graph for SARIF",
-  "type": "string",
+  "type": "object",
   "properties": {
-    
+    "edgeLabel": {
       "type": "string",
-    
+    },
+    "nodeLabel": {
+      "type": "string",
+    }
   }
 }
