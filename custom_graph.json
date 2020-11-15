@@ -1,5 +1,5 @@
 {
-  "$id": "https://github.com/vaibhav-hexa/JSON_Test/blob/main/location.json",
+  "$id": "https://raw.githubusercontent.com/vaibhav-hexa/JSON_Test/main/custom_graph.json",
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Node and Edge Label for a Graph",
   "description": "Labels for Nodes and Edges in a Graph for SARIF",
