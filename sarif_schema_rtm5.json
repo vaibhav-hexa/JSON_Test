@@ -1515,7 +1515,7 @@
         "label": {
           "description": "A short description of the node.",
           "$ref": "#/definitions/message"
-        },"
+        },
         
         "nodeLabel": {
           "$ref": "https://raw.githubusercontent.com/vaibhav-hexa/JSON_Test/main/custom_graph.json"
