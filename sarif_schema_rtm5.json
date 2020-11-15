@@ -1016,6 +1016,11 @@
           "$ref": "#/definitions/message"
         },
 
+        "graphType": {
+          "description": "Type of graph",
+          "$ref": "https://raw.githubusercontent.com/vaibhav-hexa/JSON_Test/main/custom_graph.json" 
+        },
+        
         "nodes": {
           "description": "An array of node objects representing the nodes of the graph.",
           "type": "array",
