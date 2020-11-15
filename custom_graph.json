@@ -5,7 +5,10 @@
   "description": "Labels for Nodes and Edges in a Graph for SARIF",
   "type": "object",
   "properties": {
-    "label": {
+    "edgeLabel": {
+      "type": "string",
+    },
+    "nodeLabel": {
       "type": "string",
     }
   }
