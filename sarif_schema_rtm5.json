@@ -475,6 +475,10 @@
           "description": "A short description of the edge.",
           "$ref": "#/definitions/message"
         },
+        
+        "edgeLabel": {
+          "$ref": "https://raw.githubusercontent.com/vaibhav-hexa/JSON_Test/main/custom_graph.json"
+        },  
 
         "sourceNodeId": {
           "description": "Identifies the source node (the node at which the edge starts).",
@@ -1511,7 +1515,11 @@
         "label": {
           "description": "A short description of the node.",
           "$ref": "#/definitions/message"
-        },
+        },"
+        
+        "nodeLabel": {
+          "$ref": "https://raw.githubusercontent.com/vaibhav-hexa/JSON_Test/main/custom_graph.json"
+        },  
 
         "location": {
           "description": "A code location associated with the node.",
