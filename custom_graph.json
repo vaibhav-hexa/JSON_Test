@@ -6,10 +6,10 @@
   "type": "object",
   "properties": {
     "nodeLabel": {
-      "type": "string",
+      "type": "string"
     },
     "edgeLabel": {
-      "type": "string",
+      "type": "string"
     },
     "graphType": {
       "type": "string"
